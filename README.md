@@ -37,10 +37,10 @@ The pipeline outputs sample_wise files into the following directories:
 ## References
 The pipeline uses the following tools:
 <ul>
-    <li>BWA-MEM: <a href="https://github.com/lh3/bwa-mem">https://github.com/lh3/bwa-mem</a></li>
-    <li>SAMtools: <a href="http://www.htslib.org/doc/samtools.html">http://www.htslib.org/doc/samtools.html</a></li>
     <li>Trimmomatic: <a href="http://www.usadellab.org/cms/?page=trimmomatic">http://www.usadellab.org/cms/?page=trimmomatic</a></li>
     <li>SPAdes: <a href="https://cab.spbu.ru/software/spades/">https://cab.spbu.ru/software/spades/</a></li>
+    <li>BWA-MEM: <a href="https://github.com/lh3/bwa-mem">https://github.com/lh3/bwa-mem</a></li>
+    <li>SAMtools: <a href="http://www.htslib.org/doc/samtools.html">http://www.htslib.org/doc/samtools.html</a></li>
     <li>Varscan: <a href="http://varscan.sourceforge.net/">http://varscan.sourceforge.net/</a></li>
 </ul>
 
