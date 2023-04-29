@@ -22,11 +22,8 @@ The pipeline requires two inputs:
 ## Usage
 To run the pipeline, use the following command:
 
-<p><code>./Viral_Variant_Call.sh;<p><code>
-
-- The program will prompt for the name/path to the raw FASTQ files directory and the reference genome
-
-
+<p><code>./Viral_Variant_Call.sh<p><code>
+The program will prompt for the name/path to the raw FASTQ files directory and the reference genome
 ## Output
 The pipeline outputs sample_wise files into the following directories:
 
