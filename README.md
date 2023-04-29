@@ -20,8 +20,8 @@ The pipeline requires two inputs:
 2. Path to the reference genome file (in fasta format)
 
 ## Usage
-To run the pipeline, use the following command:
-
+Make the file executable by using chmod +x and run the pipeline using:
+<p><code>chmod +x viral_variant_call.sh</code></p>
 <p><code>./viral_variant_call.sh</code></p>
 
 The program will prompt for the name/path to the raw FASTQ files directory and the reference genome
