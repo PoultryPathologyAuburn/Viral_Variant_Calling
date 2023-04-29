@@ -1,4 +1,4 @@
-# Viral_Variant_Calling
+# Viral Variant Calling
 This is a Bash script for variant calling using BWA-MEM and SAMtools on a cluster such as Alabama Super Computer (ASC) with the assumption that these tools have been already installed. The pipeline takes raw sequencing data in FASTQ format and a reference genome in FASTA format, and outputs variant calls in VCF format.
 
 ## Prerequisites
